@@ -41,7 +41,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/MTalhaZafar32/CodSoft-Iris-Species-Classification.git
+   git clone https://github.com/MTalhaZafar32/CodSoft-Iris-Species-Classification-with-Machine-Learning.git
    
 2. Explore the Data: Navigate to the data/ directory to find the dataset (Iris.csv) containing iris flower features and the predicted values (Iris_prediction.csv).
 
