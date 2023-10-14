@@ -39,13 +39,13 @@ Iris-Species-Classification/
 To get started with the project, follow these steps:
 
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
-
+git clone
    ```shell
-   git clone https://github.com/MTalhaZafar32/CodSoft-Iris-Species-Classification-with-Machine-Learning.git
+    https://github.com/MTalhaZafar32/CodSoft-Iris-Species-Classification-with-Machine-Learning.git
    
-2. Explore the Data: Navigate to the data/ directory to find the dataset (Iris.csv) containing iris flower features and the predicted values (Iris_prediction.csv).
+3. Explore the Data: Navigate to the data/ directory to find the dataset (Iris.csv) containing iris flower features and the predicted values (Iris_prediction.csv).
 
-3. Notebook Analysis: Open the notebooks/Iris_Working_File.ipynb notebook to view the analysis and application of machine learning models for iris species classification.
+4. Notebook Analysis: Open the notebooks/Iris_Working_File.ipynb notebook to view the analysis and application of machine learning models for iris species classification.
 
 ## Data Files
 `Iris.csv`: The dataset containing information about iris flowers, which is used for species classification.
@@ -55,7 +55,7 @@ To get started with the project, follow these steps:
 Contributions and enhancements to the project are highly encouraged. If you discover any issues or have ideas for improvements, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the Apache `MIT` - see the LICENSE file for details.
+This project is licensed under the Apache `MIT` - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 This project acknowledges the valuable resources and libraries from the Python ecosystem that enable data analysis and machine learning.
